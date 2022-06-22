@@ -134,35 +134,32 @@ margin-right: 46px;
 color: var(--brand-color);
 }
 
+
 .link-contact { 
   color: var(--text-lorem);
   text-decoration: none;
 }
 
-.icon-mail {
-  fill: var(--text-lorem);
+.icon {
+  fill: var(--white);
   width: 16px;
   height: 12px;
   margin-right: 10px;
 }
-
-.icon-tel {
-  fill: var(--text-lorem);
-  width: 16px;
-  height: 12px;
-  margin-right: 10px;
-}
+/*.icon:hover,
+.icon:focus
+ {
+  fill: var (--brand-color);
+}*/
 
 .social-links-contact .link-contact:hover,
 .social-links-contact .link-contact:focus {
 color: var(--brand-color);
 }
-
 a {
   text-decoration: none;
   color: var(--text-lorem);
 }
-
 
 .img-layout-studio {
   display: flex;
