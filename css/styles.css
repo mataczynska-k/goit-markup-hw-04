@@ -141,7 +141,7 @@ color: var(--brand-color);
 }
 
 .icon {
-  fill: var(--white);
+  fill: var(--text-lorem);
   width: 16px;
   height: 12px;
   margin-right: 10px;
@@ -613,5 +613,5 @@ color: var(--brand-color);
 .join-social_link {
   width: 20px;
   height: 20px;
-  fill: var(--bright-color);
+  fill: var(--white);
 }
